@@ -120,5 +120,6 @@ public class RadioTowerChannelAssignment {
 ```
 ## Output:
 <img width="520" height="474" alt="image" src="https://github.com/user-attachments/assets/3417cf1d-f702-4ac7-a2dd-1b11369c84b6" />
+
 ## Result:
 The program successfully implemented and the expected output is verified.
