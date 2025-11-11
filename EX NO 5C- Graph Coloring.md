@@ -1,4 +1,3 @@
-
 # EX 5C Graph coloring
 ## DATE: 31/10/2025
 ## AIM:
@@ -23,8 +22,6 @@ Print "YES" if it's possible to assign frequencies to towers such that no two ad
 Otherwise, print "NO".
 
 <img width="182" height="440" alt="image" src="https://github.com/user-attachments/assets/b32078a2-c79d-4a25-88c4-e51144b5456f" />
-
-
 ## Algorithm
 
 1. **Input:**
@@ -121,11 +118,7 @@ public class RadioTowerChannelAssignment {
 }
 
 ```
-
 ## Output:
 <img width="520" height="474" alt="image" src="https://github.com/user-attachments/assets/3417cf1d-f702-4ac7-a2dd-1b11369c84b6" />
-
-
-
 ## Result:
 The program successfully implemented and the expected output is verified.
